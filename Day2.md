@@ -225,6 +225,7 @@ pipeline {
         }
     }
 }
+```
  - click `save` -> click `build`
 
 ![Screenshot from 2025-03-21 09-55-59](https://github.com/user-attachments/assets/bf19d1f4-e4e6-425a-9ebc-f0bb8f332aa5)
